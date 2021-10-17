@@ -1,6 +1,4 @@
 Apple
 Pineapple
 Banana
-Cherries
-Raspberries
 
